@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2026-03-31 12:30:26.601794",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2026-03-31 12:30:26.601794",
+ "modified_by": "Administrator",
+ "module": "Destination Management System",
+ "name": "event-dashboard",
+ "owner": "Administrator",
+ "page_name": "event-dashboard",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Event Dashboard"
+}
